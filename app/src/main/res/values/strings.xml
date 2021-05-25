@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Recipe book</string>
+    <string name="tab_text_1">BreakFest</string>
+    <string name="tab_text_2">Dinner</string>
+    <string name="tab_text_3">Supper</string>
+    <string name="tab_text_4">Dessert</string>
+
+
+    <string-array name="Category_Array">
+        <item>BreakFest</item>
+        <item>Dinner</item>
+        <item>Supper</item>
+        <item>Dessert</item>
+    </string-array>
+
+</resources>
